@@ -48,5 +48,5 @@ Create an issue if you need support
 
 # Changelog 
 
-** 1.0 **
+** v1.0.0 **
 * Initial Release
