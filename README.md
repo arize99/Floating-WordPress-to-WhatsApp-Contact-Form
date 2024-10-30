@@ -48,5 +48,8 @@ Create an issue if you need support
 
 # Changelog 
 
+** v1.1.0 **
+* Added a feedback prompt after updating your WhatsApp number.
+
 ** v1.0.0 **
 * Initial Release
