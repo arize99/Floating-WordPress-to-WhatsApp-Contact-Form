@@ -1,3 +1,9 @@
+<h3 aling="centre">
+    <img src="https://i.imgur.com/PdSRoEH.png" width="150">
+</h3>
+
+
+
 # Floating-WhatsApp-Contact-Form
 Reachablity and urgency is good for customer satisfaction. Using a traditional contact form or an AI bot can be frustrating some times. With this simple contact form that sends data to WhatsApp, you can answer your customers on the go and they won't need to constantly check their email for your ticket upates. Suitable for individuals running a small business.
 
@@ -53,3 +59,5 @@ Create an issue if you need support
 
 ** v1.0.0 **
 * Initial Release
+
+❤️ Like this plugin? Your support helps keep it updated and helps fund new free tools for everyone.
