@@ -31,20 +31,20 @@ Stable tag: 1.0
 
 # Description
 
-Reachablity is good for customer satisfaction. Using a traditional contact form or an AI bot can be frustrating some times. With this simple contact form that sends data to WhatsApp, you can answer your customers on the go and they won't need to constantly check their email for your ticket upates. Suitable for individuals running a small business.
+Reachability is good for customer satisfaction. Using a traditional contact form or an AI bot can be frustrating sometimes. With this simple contact form that sends data to WhatsApp, you can answer your customers on the go, and they won't need to constantly check their email for your ticket updates. It is suitable for individuals running a small business.
 
 # Installation 
 
 1. Download the repo/ plugin > Upload the zip to the `/wp-content/plugins/` directory.
-2. Go to your WP Admin Plugin directoty and activate the plugin
-3. Go to the WCF Settings in the Admin Dashboard and change the number to your prefered (Business) WhatsApp phone number. 
+2. Go to your WP Admin Plugin directory and activate the plugin
+3. Go to the WCF Settings in the Admin Dashboard and change the number to your preferred (Business) WhatsApp phone number. 
 
 OR 
 
 1. Download plugin
-2. Upload plugin via `wp-admin/plugins`
+2. Upload the plugin via `wp-admin/plugins`
 3. Activate plugin
-4. Go to the WCF Settings in the Admin Dashboard and change the number to your prefered (Business) WhatsApp phone number.
+4. Go to the WCF Settings in the Admin Dashboard and change the number to your preferred (Business) WhatsApp phone number.
 
 # FAQ
 
