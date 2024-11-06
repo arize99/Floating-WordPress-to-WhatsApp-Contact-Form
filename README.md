@@ -11,7 +11,7 @@ Key Benefits:
 - Respond to customers on-the-go, no desk required
 - Eliminate email checking frustration for ticket updates
 - Enhance customer satisfaction through timely support
-- Ideal For: Small business owners seeking personalized support solutions
+- Ideal For Small business owners seeking personalized support solutions
 
 
 Contributors: Arize	Nnonyelu
